@@ -1,0 +1,20 @@
+<resources>
+    <string name="key1">DRIVAGO</string>
+    <string name="key2">Student Details</string>
+    <string name="key3">Student NIC</string>
+    <string name="key4">Student Name</string>
+    <string name="key5">Location</string>
+    <string name="key6">Telephone Number</string>
+    <string name="key7">Vehical Catogary</string>
+    <string name="key8">Submit</string>
+    <string name="key9">Update</string>
+    <string name="key10">Delete</string>
+    <string name="p_key1">Your Profile</string>
+    <string name="p_key2">Nimal</string>
+    <string name="p_key3">Colombo</string>
+    <string name="p_key4">0713456236</string>
+    <string name="p_key5">970160456v</string>
+    <string name="p_key6">Three wheel</string>
+    <string name="p_key7">Back</string>
+    <string name="p_key8">Next</string>
+</resources>
